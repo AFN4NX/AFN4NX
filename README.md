@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AHMED AFNAN</h1>
-<h3 align="center">A passionate newbie bot developer from BanglaDesh</h3>
+<h3 align="center">A Newbie Telegram Bot Developer from BanglaDesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afn4nx&label=Profile%20views&color=0e75b6&style=flat" alt="afn4nx" /> </p>
 
