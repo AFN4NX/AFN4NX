@@ -37,5 +37,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afn4nx&theme=react&line_height=40&hide=css" alt="afn4nx" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=afn4nx&show_icons=true&locale=en" alt="afn4nx" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afn4nx&" alt="afn4nx" /></p>
