@@ -40,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afn4nx&show_icons=true&locale=en" alt="afn4nx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afn4nx&" alt="afn4nx" /></p>
-
