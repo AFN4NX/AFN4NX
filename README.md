@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afn4nx" alt="afn4nx" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/afn4nx" target="blank"><img src="https://img.shields.io/twitter/follow/afn4nx?logo=twitter&style=for-the-badge" alt="afn4nx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aflitshop" target="blank"><img src="https://img.shields.io/twitter/follow/aflitshop?logo=twitter&style=for-the-badge" alt="afn4nx" /></a> </p>
 
-- 🔭 I’m currently working on [CCXEN](https://ccxen.xyz)
+- 🔭 I’m currently working on [CCXEN](https://aflitshop.com)
 
 - 🌱 I’m currently learning **PHP, Python**
 
 - 👯 I’m looking to collaborate on [AflitShop](https://aflitshop.com)
 
-- 👨‍💻 All of my projects are available at [https://iniciativaesahora.org/](https://iniciativaesahora.org/)
+- 👨‍💻 All of my projects are available at [https://iniciativaesahora.org/](https://aflitshop.com/)
 
 - 📝 I regularly write articles on [https://aflitshop.com/blog/](https://aflitshop.com/blog/)
 
