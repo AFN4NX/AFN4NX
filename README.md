@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Project Rimuru](https://t.me/ccxen_reup/3)
 
-- 👨‍💻 All of my projects are available at [ccxen.eu.org](ccxen.eu.org)
+- 👨‍💻 All of my projects are available at [ccxen.eu.org](https://ccxen.eu.org)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
