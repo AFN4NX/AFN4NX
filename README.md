@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afn4nx&label=Profile%20views&color=0e75b6&style=flat" alt="afn4nx" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afn4nx" alt="afn4nx" /></a> </p>
 
-- 🔭 I’m currently working on [Project Rimuru](https://t.me/ccxen_reup/3)
+- 🔭 I’m currently working on [Project Rimuru](https://t.me/rimuruchk)
 
 - 👨‍💻 All of my projects are available at [ccxen.eu.org](https://ccxen.eu.org)
 
