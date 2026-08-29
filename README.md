@@ -10,10 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aflitshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aflitshop" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/afn4nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afn4nx" height="30" width="40" /></a>
-<a href="https://fb.com/afn4nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afn4nx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/heymehedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afn4nx" height="30" width="40" /></a>
+<a href="https://fb.com/IAMAFN4N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afn4nx" height="30" width="40" /></a>
 <a href="https://instagram.com/afn4nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afn4nx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/afn4nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afn4nx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@afn4nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afn4nx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
