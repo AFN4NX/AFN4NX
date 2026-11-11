@@ -1,26 +1,203 @@
-<h1 align="center">Hi 👋, I'm Ahmed Afnan</h1>
-<h3 align="center">A Newbie Telegram Bot Developer from BanglaDesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afn4nx&label=Profile%20views&color=0e75b6&style=flat" alt="afn4nx" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afn4nx" alt="afn4nx" /></a> </p>
+<!-- ============================= HEADER ============================= -->
+<div align="center">
 
-- 🔭 I’m currently working on [Project Rimuru](https://t.me/rimuruchk)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=Ahmed%20Afnan&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Tech%20Freak%20%E2%80%A2%20Python%20Dev%20%E2%80%A2%20Builder%20%E2%80%A2%20Artistic%20Soul&descSize=18&descAlignY=60" width="100%" alt="header" />
 
-- 👨‍💻 All of my projects are available at [ccxen.eu.org](https://ccxen.eu.org)
+<a href="https://github.com/AFN4NX">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Ahmed+Afnan+%F0%9F%91%8B;Founder+%40+TUWUC+%F0%9F%8F%A2;Python+Developer+%7C+Telegram+Bot+Builder+%F0%9F%A4%96;Browser+Extension+Creator+%F0%9F%A7%A9;Digital+Entrepreneur+%F0%9F%9B%92;Exploring+new+tech%2C+every+single+day+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aflitshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aflitshop" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/heymehedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afn4nx" height="30" width="40" /></a>
-<a href="https://fb.com/IAMAFN4N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afn4nx" height="30" width="40" /></a>
-<a href="https://instagram.com/afn4nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afn4nx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@afn4nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afn4nx" height="30" width="40" /></a>
-</p>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=AFN4NX&label=Profile%20Views&color=8b5cf6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/AFN4NX?label=Followers&style=for-the-badge&color=ec4899&logo=github)
+![Location](https://img.shields.io/badge/Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afn4nx&show_icons=true&locale=en&layout=compact" alt="afn4nx" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afn4nx&show_icons=true&locale=en" alt="afn4nx" /></p>
+<a href="https://tuwuc.com">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%A2%20Parent%20Company-TUWUC.COM-8b5cf6?style=for-the-badge&labelColor=111827" alt="TUWUC" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afn4nx&" alt="afn4nx" /></p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3&section=header" width="100%" alt="divider" />
+
+## 👨‍💻 About Me
+
+```python
+class AhmedAfnan:
+    def __init__(self):
+        self.name      = "Ahmed Afnan"
+        self.alias     = "AFN4NX"
+        self.location  = "Bangladesh 🇧🇩"
+        self.company   = "TUWUC (tuwuc.com)"
+        self.role      = ["Python Dev", "Bot Builder", "Extension Maker", "Entrepreneur"]
+        self.vibe      = "Artistic Soul with a Flashy & Sassy Personality ✨"
+        self.fuel      = ["Coffee ☕", "New Tech 🧪", "Late-night coding 🌙"]
+        self.currently = "Vibe coding & building something new with Python 🐍"
+
+    def motto(self):
+        return "If it can be built, let's try building it."
+```
+
+I'm a **tech freak** who genuinely loves technology. I enjoy discovering new tech, tinkering with it, and constantly wondering *"what new thing can I build with this?"*
+
+I started my coding journey with **PHP**, and today **Python** is my true love 🐍. Whenever I get free time, I'm building something with it. Most of my work these days is **vibe coding**: fast ideas, fast builds, fast iterations.
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3&section=header" width="100%" alt="divider" />
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,flask,fastapi,git,github,linux,vscode,chrome&perline=12" alt="skills" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Browser_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3&section=header" width="100%" alt="divider" />
+
+## 🚀 What I Do
+
+| | Area | Description |
+|---|---|---|
+| 🤖 | **Telegram Bots** | Building with Python since **2022**. I add features, push updates and fix bugs almost every single day. |
+| 🧩 | **Browser Extensions** | Extensions for productivity and developer tooling, many of them open source. |
+| 🛒 | **E-commerce & Digital Business** | Running online digital product stores and reseller platforms. |
+| ⚙️ | **Automation** | Panels and tools that automate repetitive workflows end to end. |
+| 🔐 | **Security & Payments Research** | Pentesting enthusiast who researches how payment gateways like **Stripe, Braintree and PayPal** work. |
+| 🧪 | **Tech Experiments** | Playing with new tools, APIs and ideas just to see what's possible. |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3&section=header" width="100%" alt="divider" />
+
+## 🌐 My Websites
+
+<div align="center">
+
+| Project | Description | Link |
+|:---:|:---|:---:|
+| 🏢 **TUWUC** | My parent company and brand website | [![Visit](https://img.shields.io/badge/Visit-tuwuc.com-a78bfa?style=flat-square&logo=googlechrome&logoColor=white)](https://tuwuc.com) |
+| 🛍️ **AflitShop** | Online digital product store | [![Visit](https://img.shields.io/badge/Visit-aflitshop.com-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white)](https://aflitshop.com) |
+| 📺 **Woaeo** | Netflix reselling and supply platform | [![Visit](https://img.shields.io/badge/Visit-woaeo.com-ec4899?style=flat-square&logo=googlechrome&logoColor=white)](https://woaeo.com) |
+| 🪝 **HOOK Panel** | Netflix household code delivery automation | [![Visit](https://img.shields.io/badge/Visit-hook.bd-06b6d4?style=flat-square&logo=googlechrome&logoColor=white)](https://hook.bd) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3&section=header" width="100%" alt="divider" />
+
+## 🧩 Browser Extensions
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍪 Cookie Scope
+A clean and powerful **cookie editor and manager** for your browser.
+
+- View, edit, add and delete cookies
+- Modern and minimal UI
+- Fast and lightweight
+
+[![Download](https://img.shields.io/badge/Download-Extension-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-EXTENSION-DOWNLOAD-LINK-COOKIE-SCOPE)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github)](https://github.com/AFN4NX/YOUR-COOKIE-SCOPE-REPO)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Velvet Proxy 2
+An **open source, free to use** proxy manager extension.
+
+- Manage multiple proxies easily
+- Quick switching
+- 100% free and open source
+
+[![Download](https://img.shields.io/badge/Download-Extension-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-EXTENSION-DOWNLOAD-LINK-VELVET-PROXY)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github)](https://github.com/AFN4NX/YOUR-VELVET-PROXY-REPO)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3&section=header" width="100%" alt="divider" />
+
+## 🤖 SlimeCHK: Telegram Bot & Community
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=26A5E4&center=true&vCenter=true&width=600&lines=SlimeCHK+%E2%80%94+More+than+just+a+bot;Utilities+%E2%80%A2+Tools+%E2%80%A2+Community;Updated+almost+every+day+%E2%9A%A1" alt="SlimeCHK" />
+
+</div>
+
+**SlimeCHK** is my Telegram bot and community, running since **2022**. It is packed with a wide range of utility tools and is updated constantly with new features and bug fixes. It also has multiple groups and channels for the community.
+
+<div align="center">
+
+[![Telegram Bot](https://img.shields.io/badge/Open_Bot-SlimeCHK-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_BOT_USERNAME)
+[![Telegram Channel](https://img.shields.io/badge/Join_Channel-SlimeCHK-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_CHANNEL)
+[![Telegram Group](https://img.shields.io/badge/Join_Group-Community-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_GROUP)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3&section=header" width="100%" alt="divider" />
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+
+<img src="https://streak-stats.demolab.com?user=AFN4NX&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=c9d1d9" alt="streak" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/8b5cf6/AFN4NX" alt="contribution chart" width="95%" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3&section=header" width="100%" alt="divider" />
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
+[![TUWUC](https://img.shields.io/badge/TUWUC-tuwuc.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tuwuc.com)
+
+</div>
+
+## 💬 Fun Facts
+
+- 🐍 Python is my favorite language, and I'll pick it over anything else.
+- 🧠 I always think about *"what's something new I can build?"*
+- 🎨 I'm a coder with an artistic soul.
+- ⚡ I push updates to my bots almost daily.
+- 🌙 Most of my best ideas show up late at night.
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star on my repos!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
+
+</div>
